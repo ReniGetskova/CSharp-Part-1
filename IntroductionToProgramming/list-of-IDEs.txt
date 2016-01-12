@@ -1,0 +1,23 @@
+1. Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to 
+develop computer programs for Microsoft Windows, as well as web sites, web applications and web services. 
+Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows 
+Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed
+code.
+
+2. Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible 
+plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop 
+java applications. By means of various plug-ins, Eclipse may also be used to develop applications in other 
+programming languages: C, C++, COBOL, Fortran, Haskell, JavaScript, Perl, PHP, Prolog, Python, R, Ruby 
+(including Ruby on Rails framework), Scala, Clojure, Scheme, and Erlang. It can also be used to develop
+packages for the software Mathematica. 
+
+3. NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also with 
+other languages, in particular PHP, C/C++, and HTML5. The NetBeans IDE is written in Java and can run on 
+Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+
+4. Xcode is an integrated development environment (IDE) containing a suite of software development tools 
+developed by Apple for developing software for OS X and iOS.
+
+5. Xamarin Studio, a standalone IDE for mobile app development and is based on the open source project MonoDevelop.
+In addition to a debugger, Xamarin Studio includes code completion in C#, an Android UI builder for creating user 
+interfaces without XML, and integration with Xcode Interface Builder for iOS app design.

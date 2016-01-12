@@ -1,0 +1,5 @@
+C# is a programming language, .NET is the framework that the language is built on.
+.NET contains many libraries that are use for writing C# code. One of that libraries is System where is 
+defined methods like Console.Writeline() and many others. 
+.NET also contains other Microsoft languages like Visual Basic, J#, F#.
+All .NET languages compile down to Common Intermediate Language (CIL)
